@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Bridge\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
