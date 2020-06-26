@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj": {}
+    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj": {
+    "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
-        "projectName": "Bridge",
-        "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
+        "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
+        "projectName": "SimpleBridge",
+        "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
         "packagesPath": "C:\\Users\\glushchenko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\obj\\",
+        "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -42,12 +42,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Autofac": {
-              "target": "Package",
-              "version": "[5.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

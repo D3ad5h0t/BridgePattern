@@ -1,45 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Autofac/5.2.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.1/Autofac.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/Autofac.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Autofac/5.2.0": {
-      "sha512": "V8dBH0dsv75uDzl7Sw+HkhKDPUw2eXnlMjcSVMH+tLo2s67MpTKGyDj1pDcpR+IF2u4YRs0s3/x7R88YJzIWvg==",
-      "type": "package",
-      "path": "autofac/5.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "autofac.5.2.0.nupkg.sha512",
-        "autofac.nuspec",
-        "icon.png",
-        "lib/net461/Autofac.dll",
-        "lib/net461/Autofac.pdb",
-        "lib/net461/Autofac.xml",
-        "lib/netstandard2.0/Autofac.dll",
-        "lib/netstandard2.0/Autofac.pdb",
-        "lib/netstandard2.0/Autofac.xml",
-        "lib/netstandard2.1/Autofac.dll",
-        "lib/netstandard2.1/Autofac.pdb",
-        "lib/netstandard2.1/Autofac.xml"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Autofac >= 5.2.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\glushchenko\\.nuget\\packages\\": {},
@@ -49,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
-      "projectName": "Bridge",
-      "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
+      "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
+      "projectName": "SimpleBridge",
+      "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
       "packagesPath": "C:\\Users\\glushchenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\obj\\",
+      "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -84,12 +50,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "dependencies": {
-          "Autofac": {
-            "target": "Package",
-            "version": "[5.2.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

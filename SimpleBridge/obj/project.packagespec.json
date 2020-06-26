@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
-    "projectName": "Bridge",
-    "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
-    "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\obj\\",
+    "projectUniqueName": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
+    "projectName": "SimpleBridge",
+    "projectPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\SimpleBridge.csproj",
+    "outputPath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\SimpleBridge\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet",
@@ -30,12 +30,6 @@
   },
   "frameworks": {
     "netcoreapp3.1": {
-      "dependencies": {
-        "Autofac": {
-          "target": "Package",
-          "version": "[5.2.0, )"
-        }
-      },
       "imports": [
         "net461",
         "net462",

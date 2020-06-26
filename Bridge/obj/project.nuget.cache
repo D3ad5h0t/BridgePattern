@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GoEzTewhLT1tw7ZBeDrVeIiq0DTjKwGGVUCVZbw4Ri73zM0hjmS4SfdwZHdeSq1DuHfFh0p2nEDTIj23nTgZmw==",
+  "dgSpecHash": "2Uw3OyMwDfHFL2UAU+9+jAC8MF3nq9w6SR9XoPHlz5UzuG6Wnm+L4BJLxvPXPoq86yztQXIm/tWuAuIEzOCtpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\glushchenko\\Dropbox\\dotNet\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\glushchenko\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
